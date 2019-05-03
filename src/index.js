@@ -24,6 +24,7 @@ const unitMap = {
   'Mwei':         '1000000', // eslint-disable-line
   'lovelace':     '1000000', // eslint-disable-line
   'picoether':    '1000000', // eslint-disable-line
+  'ppt':          '100000000', // eslint-disable-line
   'gwei':         '1000000000', // eslint-disable-line
   'Gwei':         '1000000000', // eslint-disable-line
   'shannon':      '1000000000', // eslint-disable-line
